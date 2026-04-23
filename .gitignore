@@ -1,0 +1,34 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mexw64
+*.mexmaci64
+*.mexglx
+slprj/
+*.slxc
+
+# Data files (too large for Git)
+*.mat
+*.wav
+*.mp3
+*.csv
+*.xlsx
+
+# Results and outputs
+results/
+outputs/
+*.png
+*.fig
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
